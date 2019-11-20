@@ -6,8 +6,10 @@ In order to use it in standalone code snippets or small projects, I make it a py
 
 ## install
 
+from `../cython_bbox/` type
+
 ```
-pip install cython_bbox
+pip install .
 ```
 
 ## usage
